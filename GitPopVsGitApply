@@ -1,0 +1,2 @@
+git stash pop-  combination of git stash apply and git stash pop
+git stash apply- get the stashed into unstaged area without deleting in the staged area
